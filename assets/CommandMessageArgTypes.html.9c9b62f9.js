@@ -1,0 +1,1 @@
+const e={key:"v-48a46206",path:"/doc/typedef/CommandMessageArgTypes.html",title:"CommandMessageArgType",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1630161952e3,contributors:[{name:"Raphael",email:"veauville.raphael@gmail.com",commits:1}]},filePathRelative:"doc/typedef/CommandMessageArgTypes.md"};export{e as data};

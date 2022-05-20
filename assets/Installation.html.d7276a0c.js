@@ -1,0 +1,1 @@
+const t={key:"v-5d24c624",path:"/guide/cli/Installation.html",title:"Installation",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1629842088e3,contributors:[{name:"Nathan",email:"nathan.caron@natchi.fr",commits:1}]},filePathRelative:"guide/cli/Installation.md"};export{t as data};

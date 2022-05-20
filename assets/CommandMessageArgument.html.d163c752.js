@@ -1,0 +1,1 @@
+const e={key:"v-3a06c34c",path:"/doc/typedef/CommandMessageArgument.html",title:"CommandMessageArgument",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1630853569e3,contributors:[{name:"Raphael",email:"veauville.raphael@gmail.com",commits:2}]},filePathRelative:"doc/typedef/CommandMessageArgument.md"};export{e as data};

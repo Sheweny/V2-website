@@ -1,0 +1,1 @@
+const e={key:"v-e7de54e8",path:"/doc/typedef/CommandsManagerOptions.html",title:"CommandsManagerOptions",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1630151745e3,contributors:[{name:"Raphael",email:"veauville.raphael@gmail.com",commits:1}]},filePathRelative:"doc/typedef/CommandsManagerOptions.md"};export{e as data};

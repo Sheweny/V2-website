@@ -1,0 +1,1 @@
+const e={key:"v-1d6871f1",path:"/doc/typedef/ClientHandlers.html",title:"ClientHandlers",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1630151745e3,contributors:[{name:"Raphael",email:"veauville.raphael@gmail.com",commits:4},{name:"Nathan",email:"nathan.caron@natchi.fr",commits:1}]},filePathRelative:"doc/typedef/ClientHandlers.md"};export{e as data};

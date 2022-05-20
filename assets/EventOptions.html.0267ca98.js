@@ -1,0 +1,1 @@
+const e={key:"v-8090d8be",path:"/doc/typedef/EventOptions.html",title:"EventOptions",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1629634244e3,contributors:[{name:"Raphael",email:"veauville.raphael@gmail.com",commits:2}]},filePathRelative:"doc/typedef/EventOptions.md"};export{e as data};

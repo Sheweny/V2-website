@@ -1,0 +1,1 @@
+const e={key:"v-72e5623a",path:"/doc/typedef/ClientCollections.html",title:"Collections",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1630151745e3,contributors:[{name:"Raphael",email:"veauville.raphael@gmail.com",commits:1}]},filePathRelative:"doc/typedef/ClientCollections.md"};export{e as data};

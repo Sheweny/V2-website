@@ -1,0 +1,1 @@
+const t={key:"v-460b9991",path:"/doc/typedef/InhibitorOptions.html",title:"InhibitorOptions",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1629699507e3,contributors:[{name:"Raphael",email:"veauville.raphael@gmail.com",commits:3},{name:"Nathan",email:"nathan.caron@natchi.fr",commits:2}]},filePathRelative:"doc/typedef/InhibitorOptions.md"};export{t as data};

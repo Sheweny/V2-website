@@ -1,0 +1,1 @@
+const e={key:"v-317f7d2d",path:"/doc/classes/ShewenyWarning.html",title:"ShewenyWarning",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1631517556e3,contributors:[{name:"Raphael",email:"veauville.raphael@gmail.com",commits:1},{name:"Raphael V",email:"veauville.raphael@gmail.com",commits:1}]},filePathRelative:"doc/classes/ShewenyWarning.md"};export{e as data};
